@@ -8,7 +8,7 @@ const ScollView = styled.div`
   align-items:flex-start;
   flex-wrap:wrap;
   align-content:baseline;
-  overflow-y:scroll;
+  overflow-y:auto;
   
     ::-webkit-scrollbar {
       width: 10px;

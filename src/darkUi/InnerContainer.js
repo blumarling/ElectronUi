@@ -7,7 +7,7 @@ const InnerContainer = styled.div`
   align-items:flex-start;
   flex-wrap:wrap;
   align-content:baseline;
-  overflow-y:scroll;
+  overflow:hidden;
   height: calc(100% - 41px);
 `;
 

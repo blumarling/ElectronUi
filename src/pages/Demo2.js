@@ -4,7 +4,7 @@ class Demo2 extends React.Component{
   render() {
     return (
       <div>
-        Ciao Zozzone Numero Due!!!!
+        Ciao Numero Due!!!!
       </div>
     )
   }
